@@ -1,0 +1,7 @@
+FINANCIAL ANALYSIS:
+-----------------------------------
+Total Months: 86
+Total: $38382578
+Average monthly Profit/Loss: $-2315.12
+Largest Profit: Feb-2012, $1170593
+Largest Loss: Sep-2013, $-1196225
